@@ -1,0 +1,26 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Caché de Python y pruebas
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Archivos del sistema macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de Office
+~$*.docx
+~$*.xlsx
+~$*.doc
+
+# Archivos locales que no se suben al repositorio (plantilla, enunciado, guión y entrega Word)
+plantilla de trabajo.docx
+S30*Actividad*.pdf
+docs/
+Morales_Raul_Castro_David_problemaParqueadero.docx
